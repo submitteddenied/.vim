@@ -8,7 +8,7 @@ Script](https://github.com/carlhuda/janus)
 1) Checkout the code into a folder called .vim in your home directory  
 
 ``` bash
-git clone https://rweald@github.com/rweald/Vim-Configuration.git ~/.vim
+git clone git@github.com:submitteddenied/.vim ~/.vim
 
 ```
 
